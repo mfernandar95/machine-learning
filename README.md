@@ -1,4 +1,4 @@
-The EP-PSI3472  was a project to construct a coloring face images pipeline using keras. 
+The EP-PSI 3472 was a project to construct a coloring face images pipeline using keras. There is an ensemble between six trained different network to get best results.
 
 More information can be found in the report EP-PSI3472.pdf.
 
